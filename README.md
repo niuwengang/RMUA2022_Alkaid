@@ -4,7 +4,7 @@
 
 # RMUA2022_东北大学Alkaid战队
 
-<img src="pic.jpeg" align="left" style="zoom:20%;" />
+<img src="pic.jpeg" align="left"  width = "300" height = "200"/>
 
 ## 1. 比赛技术方案
 
