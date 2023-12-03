@@ -1,7 +1,7 @@
 
 
 
-<img src="pic.jpeg" width = "300" height = "200"  align="left" /> 
+<img src="pic.jpeg" width = "300" height = "200"   /> 
 
 # RMUA2022_东北大学Alkaid战队 
 
