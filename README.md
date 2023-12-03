@@ -1,3 +1,7 @@
+# 
+
+<img src="/home/g/workspace/RMUA2022_Alkaid/pic.jpeg" alt="pic" />
+
 # RMUA2022_东北大学Alkaid战队
 
 ## 1. 比赛技术方案
