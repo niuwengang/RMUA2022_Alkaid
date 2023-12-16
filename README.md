@@ -3,20 +3,12 @@
 
 <img src="pic.jpeg" width = "300" height = "200"   /> 
 
-<<<<<<< HEAD
+
 # RMUA2022_东北大学Alkaid战队
-
-<img src="pic.jpeg" width = "300" height = "200" /> 
-=======
-# RMUA2022_东北大学Alkaid战队 
->>>>>>> 3a950016be4634ac51dcfbff7d6a74ff10b5a092
-
 ## 1. 比赛技术方案
 
-[海报](./RMUA2022东北大学摇光战队海报.pdf)
-
-
-
+[技术海报](./RMUA2022东北大学摇光战队海报.pdf)
+[技术报告](./RMUA2022东北大学摇光战队技术报告.pdf)
 
 ## 2. 比赛现场视频
 
@@ -59,5 +51,4 @@ ICRA 2022 Robomaster AI Challenge 八强技术答辩录播 RMUA     [上半场vi
 
 ## 5.参考  
 https://github.com/RoboMaster/RoboRTS  
-
 
